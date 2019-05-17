@@ -1,2 +1,3 @@
 # insomnia-plugin-randombankcard
-insomnia create a random bank  card no
+Generate a random bank card no for Insomnia REST Client.
+

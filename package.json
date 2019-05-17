@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-plugin-randombankcard",
+  "description": "Generate random bank card inside the Insomnia REST client",
+  "version": "1.0.0",
+  "main": "randombankcard.js",
+  "insomnia": {
+    "name": "randomBankCard",
+    "description": "Generate a random bankcard"
+  },
+  "repository": "",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "rng",
+    "number",
+    "generator"
+  ]
+}
